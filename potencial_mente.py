@@ -1,5 +1,5 @@
 """
-Proyecto AYNO: Modelado de Paisajes de Energía Atractora
+Proyecto AYNHO: Modelado de Paisajes de Energía Atractora
 Autor: Isaicarlos (Trujillo, Perú)
 
 Este script simula la trayectoria de un pensamiento en un potencial de doble pozo
